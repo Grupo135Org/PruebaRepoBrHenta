@@ -1,2 +1,2 @@
-# PruebaRepoBrHenta
+# PruebaRepoBrHenTa
 Prueba de repositorio
